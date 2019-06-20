@@ -25,7 +25,7 @@ Certs:
   MountPath: /var/atlassian/certs/
 
 Image:
-  Name: "praqma/jira"
+  Name: "spearsd/jira"
   Tag: "8.1.0"
   ImagePullPolicy: "Always"
   PrivateRegistry: true
